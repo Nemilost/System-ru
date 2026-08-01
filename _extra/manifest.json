@@ -1,0 +1,12 @@
+{
+  "format_version": 1,
+  "entries": [
+    {
+      "action": "update",
+      "dst": "SysTextures/ui7.ugx",
+      "url": "https://github.com/Nemilost/System-ru/releases/download/extra-2026.08/ui7.ugx",
+      "sha256": "8656729256265feca749d75d7eb32eb632ceff4e4b9b73cd0a33963e8e936265",
+      "size": 17132173
+    }
+  ]
+}
